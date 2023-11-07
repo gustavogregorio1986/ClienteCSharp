@@ -1,0 +1,12 @@
+C:\ClienteCsharp\ProjetoCliente\ProjetoCliente.Dominio\bin\Debug\net5.0\ProjetoCliente.Dominio.deps.json
+C:\ClienteCsharp\ProjetoCliente\ProjetoCliente.Dominio\bin\Debug\net5.0\ProjetoCliente.Dominio.dll
+C:\ClienteCsharp\ProjetoCliente\ProjetoCliente.Dominio\bin\Debug\net5.0\ProjetoCliente.Dominio.pdb
+C:\ClienteCsharp\ProjetoCliente\ProjetoCliente.Dominio\obj\Debug\net5.0\ProjetoCliente.Dominio.csproj.AssemblyReference.cache
+C:\ClienteCsharp\ProjetoCliente\ProjetoCliente.Dominio\obj\Debug\net5.0\ProjetoCliente.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\ClienteCsharp\ProjetoCliente\ProjetoCliente.Dominio\obj\Debug\net5.0\ProjetoCliente.Dominio.AssemblyInfoInputs.cache
+C:\ClienteCsharp\ProjetoCliente\ProjetoCliente.Dominio\obj\Debug\net5.0\ProjetoCliente.Dominio.AssemblyInfo.cs
+C:\ClienteCsharp\ProjetoCliente\ProjetoCliente.Dominio\obj\Debug\net5.0\ProjetoCliente.Dominio.csproj.CoreCompileInputs.cache
+C:\ClienteCsharp\ProjetoCliente\ProjetoCliente.Dominio\obj\Debug\net5.0\ProjetoCliente.Dominio.dll
+C:\ClienteCsharp\ProjetoCliente\ProjetoCliente.Dominio\obj\Debug\net5.0\refint\ProjetoCliente.Dominio.dll
+C:\ClienteCsharp\ProjetoCliente\ProjetoCliente.Dominio\obj\Debug\net5.0\ProjetoCliente.Dominio.pdb
+C:\ClienteCsharp\ProjetoCliente\ProjetoCliente.Dominio\obj\Debug\net5.0\ref\ProjetoCliente.Dominio.dll

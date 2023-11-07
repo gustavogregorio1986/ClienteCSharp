@@ -1,0 +1,17 @@
+C:\ClienteCsharp\ProjetoCliente\ProjetoCliente.Servico\bin\Debug\net5.0\ProjetoCliente.Servico.deps.json
+C:\ClienteCsharp\ProjetoCliente\ProjetoCliente.Servico\bin\Debug\net5.0\ProjetoCliente.Servico.dll
+C:\ClienteCsharp\ProjetoCliente\ProjetoCliente.Servico\bin\Debug\net5.0\ProjetoCliente.Servico.pdb
+C:\ClienteCsharp\ProjetoCliente\ProjetoCliente.Servico\bin\Debug\net5.0\ProjetoCliente.Data.dll
+C:\ClienteCsharp\ProjetoCliente\ProjetoCliente.Servico\bin\Debug\net5.0\ProjetoCliente.Dominio.dll
+C:\ClienteCsharp\ProjetoCliente\ProjetoCliente.Servico\bin\Debug\net5.0\ProjetoCliente.Data.pdb
+C:\ClienteCsharp\ProjetoCliente\ProjetoCliente.Servico\bin\Debug\net5.0\ProjetoCliente.Dominio.pdb
+C:\ClienteCsharp\ProjetoCliente\ProjetoCliente.Servico\obj\Debug\net5.0\ProjetoCliente.Servico.csproj.AssemblyReference.cache
+C:\ClienteCsharp\ProjetoCliente\ProjetoCliente.Servico\obj\Debug\net5.0\ProjetoCliente.Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\ClienteCsharp\ProjetoCliente\ProjetoCliente.Servico\obj\Debug\net5.0\ProjetoCliente.Servico.AssemblyInfoInputs.cache
+C:\ClienteCsharp\ProjetoCliente\ProjetoCliente.Servico\obj\Debug\net5.0\ProjetoCliente.Servico.AssemblyInfo.cs
+C:\ClienteCsharp\ProjetoCliente\ProjetoCliente.Servico\obj\Debug\net5.0\ProjetoCliente.Servico.csproj.CoreCompileInputs.cache
+C:\ClienteCsharp\ProjetoCliente\ProjetoCliente.Servico\obj\Debug\net5.0\ProjetoCliente.Servico.csproj.CopyComplete
+C:\ClienteCsharp\ProjetoCliente\ProjetoCliente.Servico\obj\Debug\net5.0\ProjetoCliente.Servico.dll
+C:\ClienteCsharp\ProjetoCliente\ProjetoCliente.Servico\obj\Debug\net5.0\refint\ProjetoCliente.Servico.dll
+C:\ClienteCsharp\ProjetoCliente\ProjetoCliente.Servico\obj\Debug\net5.0\ProjetoCliente.Servico.pdb
+C:\ClienteCsharp\ProjetoCliente\ProjetoCliente.Servico\obj\Debug\net5.0\ref\ProjetoCliente.Servico.dll
